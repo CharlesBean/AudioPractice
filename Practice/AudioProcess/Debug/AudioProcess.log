@@ -1,0 +1,31 @@
+﻿Build started 2/17/2015 2:24:47 AM.
+     1>Project "D:\Windows\Programming\School\CSE 471\Practice\AudioProcess\AudioProcess.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Windows\Programming\IDE's\Visual Studio 2013 Premium\Files\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\AudioProcess.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt AudioProcessDoc.cpp
+         AudioProcessDoc.cpp
+       Link:
+         D:\Windows\Programming\IDE's\Visual Studio 2013 Premium\Files\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Windows\Programming\School\CSE 471\Practice\Debug\AudioProcess.exe" /INCREMENTAL /NOLOGO amstrmid.lib quartz.lib dsound.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Windows\Programming\IDE's\Visual Studio 2013 Premium\Files\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\Windows\Programming\School\CSE 471\Practice\Debug\AudioProcess.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Windows\Programming\School\CSE 471\Practice\Debug\AudioProcess.lib" /MACHINE:X86 Debug\AudioProcess.res
+         Debug\AudioGenerateDoc.obj
+         Debug\AudioGenerateView.obj
+         Debug\AudioProcess.obj
+         Debug\AudioProcessDoc.obj
+         Debug\AudioProcessView.obj
+         Debug\DirSound.obj
+         Debug\DirSoundSource.obj
+         Debug\DirSoundStream.obj
+         Debug\Wave.obj
+         Debug\WaveformBuffer.obj
+         Debug\WaveformWnd.obj
+         Debug\ChildFrm.obj
+         Debug\GenerateDlg.obj
+         Debug\MainFrm.obj
+         Debug\ProcessDlg.obj
+         Debug\Progress.obj
+         Debug\ProgressDlg.obj
+         Debug\stdafx.obj
+         AudioProcess.vcxproj -> D:\Windows\Programming\School\CSE 471\Practice\Debug\AudioProcess.exe
+     1>Done Building Project "D:\Windows\Programming\School\CSE 471\Practice\AudioProcess\AudioProcess.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.69
